@@ -1,0 +1,9 @@
+{
+    "lövelauncher.path": "/Applications/love.app/Contents/MacOS/love",
+    "pixelbyte.love2d.path": "/Applications/love.app/Contents/MacOS/love",
+    "Lua.diagnostics.disable": [
+        "undefined-global"
+    ],
+    "pixelbyte.love2d.runOnSave": true,
+    "pixelbyte.love2d.debug": true
+}
